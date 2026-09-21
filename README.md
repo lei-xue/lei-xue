@@ -30,4 +30,4 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
 - Deepening healthcare-interop knowledge (FHIR, pharmacy workflows — certified pharmacy technician, CPhT)
 - Building AI-assisted tools with real guardrails
 
-📫 Reach me: [hi@stratiks.com](mailto:hi@stratiks.com)
+📫 Reach me: [hi@leixue.dev](mailto:hi@leixue.dev)
