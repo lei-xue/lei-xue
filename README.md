@@ -28,7 +28,7 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
       <strong><a href="https://github.com/lei-xue/cinnamoroll-money-clock">Cinnamoroll Money Clock</a></strong><br/>
       A cute, privacy-first live earnings clock with a configurable workday and unpaid lunch break.<br/>
       <a href="https://moneyclock.leixue.dev">Live preview</a> · <a href="https://github.com/lei-xue/cinnamoroll-money-clock">Source</a><br/><br/>
-      <img src="assets/tiny-projects/money-clock-preview.svg" alt="Cinnamoroll Money Clock screenshot preview placeholder" width="100%" />
+      <a href="assets/tiny-projects/cinnamoroll-money-clock-preview.jpg"><img src="assets/tiny-projects/cinnamoroll-money-clock-preview.jpg" alt="Cinnamoroll Money Clock website preview" width="100%" /></a>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/lei-xue/cinema-app">Cinemate</a></strong><br/>
