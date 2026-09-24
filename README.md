@@ -27,12 +27,12 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
     <td width="50%" valign="top">
       <strong><a href="https://moneyclock.leixue.dev/">Cinnamoroll Money Clock</a></strong><br/>
       A cute, privacy-first live earnings clock with a configurable workday and unpaid lunch break.<br/><br/>
-      <a href="https://moneyclock.leixue.dev"><img src="assets/tiny-projects/cinnamoroll-money-clock-preview.jpg" alt="Cinnamoroll Money Clock website preview" width="100%" /></a>
+      <a href="https://moneyclock.leixue.dev"><img src="assets/tiny-projects/cinnamoroll-money-clock-screenshot.jpg" alt="Cinnamoroll Money Clock dashboard screenshot" width="100%" /></a>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://movies.leixue.dev/">Cinemate</a></strong><br/>
       A React movie browser powered by TMDB.<br/><br/>
-      <a href="https://movies.leixue.dev"><img src="assets/tiny-projects/cinemate-preview.jpg" alt="Cinemate website preview" width="100%" /></a>
+      <a href="https://movies.leixue.dev"><img src="assets/tiny-projects/cinemate-screenshot.jpg" alt="Cinemate movie browser screenshot" width="100%" /></a>
     </td>
   </tr>
 </table>
