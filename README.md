@@ -25,15 +25,13 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/lei-xue/cinnamoroll-money-clock">Cinnamoroll Money Clock</a></strong><br/>
-      A cute, privacy-first live earnings clock with a configurable workday and unpaid lunch break.<br/>
-      <a href="https://moneyclock.leixue.dev">Live preview</a> · <a href="https://github.com/lei-xue/cinnamoroll-money-clock">Source</a><br/><br/>
+      <strong><a href="https://moneyclock.leixue.dev/">Cinnamoroll Money Clock</a></strong><br/>
+      A cute, privacy-first live earnings clock with a configurable workday and unpaid lunch break.<br/><br/>
       <a href="https://moneyclock.leixue.dev"><img src="assets/tiny-projects/cinnamoroll-money-clock-preview.jpg" alt="Cinnamoroll Money Clock website preview" width="100%" /></a>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/lei-xue/cinema-app">Cinemate</a></strong><br/>
-      A React movie browser powered by TMDB.<br/>
-      <a href="https://movies.leixue.dev">Live preview</a> · <a href="https://github.com/lei-xue/cinema-app">Source</a><br/><br/>
+      <strong><a href="https://movies.leixue.dev/">Cinemate</a></strong><br/>
+      A React movie browser powered by TMDB.<br/><br/>
       <a href="https://movies.leixue.dev"><img src="assets/tiny-projects/cinemate-preview.jpg" alt="Cinemate website preview" width="100%" /></a>
     </td>
   </tr>
