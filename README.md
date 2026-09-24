@@ -20,6 +20,25 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
 | **CharityCheck** | Verify a charity's legitimacy and 501(c)(3) status via IRS/ProPublica data | [Live](https://leixue.dev/charitycheck/index.html) · [Repo](https://github.com/lei-xue/charity-check) |
 | **LeetCode Solutions** | Blind 75 in JS + Java, plus 90+ daily practice and JS-challenge problems | [Repo](https://github.com/lei-xue/leetcode-solutions) |
 
+## 🧪 Tiny Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/lei-xue/cinnamoroll-money-clock">Cinnamoroll Money Clock</a></strong><br/>
+      A cute, privacy-first live earnings clock with a configurable workday and unpaid lunch break.<br/>
+      <a href="https://moneyclock.leixue.dev">Live preview</a> · <a href="https://github.com/lei-xue/cinnamoroll-money-clock">Source</a><br/><br/>
+      <img src="assets/tiny-projects/money-clock-preview.svg" alt="Cinnamoroll Money Clock screenshot preview placeholder" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/lei-xue/cinema-app">Cinemate</a></strong><br/>
+      A React movie browser powered by TMDB.<br/>
+      <a href="https://movies.leixue.dev">Live preview</a> · <a href="https://github.com/lei-xue/cinema-app">Source</a><br/><br/>
+      <img src="assets/tiny-projects/cinemate-preview.svg" alt="Cinemate screenshot preview placeholder" width="100%" />
+    </td>
+  </tr>
+</table>
+
 ## 💼 Client Work (source private)
 
 - **WAE International Art Education** — full marketing site, solo build ([live](https://leixue.dev/wae/index.html))

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" rx="28" fill="#f7f3ff"/>
+  <rect x="24" y="24" width="592" height="312" rx="22" fill="#fff" stroke="#ded4ff" stroke-width="3"/>
+  <path d="M26 48a22 22 0 0 1 22-22h544a22 22 0 0 1 22 22v34H26z" fill="#eee8ff"/>
+  <circle cx="52" cy="54" r="7" fill="#ff9cb8"/>
+  <circle cx="76" cy="54" r="7" fill="#ffd477"/>
+  <circle cx="100" cy="54" r="7" fill="#80d8bb"/>
+  <rect x="257" y="113" width="126" height="112" rx="20" fill="#f3efff" stroke="#bca9f5" stroke-width="4"/>
+  <path d="m257 143 126-27v-20H257z" fill="#d8cbff" stroke="#bca9f5" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m280 119 20-19m14 15 20-19m14 15 20-19" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+  <path d="m309 164 36 22-36 22z" fill="#8b72d6"/>
+  <text x="320" y="275" text-anchor="middle" fill="#66539e" font-family="Arial,sans-serif" font-size="22" font-weight="700">Screenshot preview coming soon</text>
+</svg>
