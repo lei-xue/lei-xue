@@ -15,7 +15,7 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
 | Project | What it does | Links |
 |---|---|---|
 | **MedOps Portal** | Medication operations portal for pharmacy teams — role-based order workflow, inventory, audit trails, plus a FHIR integration slice | [Live demo](https://medops.leixue.dev) · [Repo](https://github.com/lei-xue/med-ops-portal) |
-| **MindBridge** | Crisis-support resource navigator with real hotline data and accessibility-first design | [Live](https://leixue.dev/mindbridge/index.html) · [Repo](https://github.com/lei-xue/mindbridge) |
+| **MindBridge** | Bilingual mental-health directory — 23 support resources, 58 California county access contacts, dated clinic records, and County/ZIP search with optional local county detection | [Live](https://mindbridge.leixue.dev/) · [Español](https://mindbridge.leixue.dev/es) · [Repo](https://github.com/lei-xue/mindbridge) |
 | **DisasterLens** | US disaster declaration explorer on FEMA open data — maps, trends, preparedness info | [Live](https://leixue.dev/disasterlens/index.html) · [Repo](https://github.com/lei-xue/disaster-lens) |
 | **CharityCheck** | Verify a charity's legitimacy and 501(c)(3) status via IRS/ProPublica data | [Live](https://leixue.dev/charitycheck/index.html) · [Repo](https://github.com/lei-xue/charity-check) |
 | **LeetCode Solutions** | Blind 75 in JS + Java, plus 90+ daily practice and JS-challenge problems | [Repo](https://github.com/lei-xue/leetcode-solutions) |
