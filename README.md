@@ -15,7 +15,6 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
 | Project | What it does | Links |
 |---|---|---|
 | **MedOps Portal** | Medication operations portal for pharmacy teams — role-based order workflow, inventory, audit trails, plus a FHIR integration slice | [Live demo](https://medops.leixue.dev) · [Repo](https://github.com/lei-xue/med-ops-portal) |
-| **MindBridge** | Bilingual mental-health directory — 23 support resources, 58 California county access contacts, dated clinic records, and County/ZIP search with optional local county detection | [Live](https://mindbridge.leixue.dev/) · [Español](https://mindbridge.leixue.dev/es) · [Repo](https://github.com/lei-xue/mindbridge) |
 | **DisasterLens** | US disaster declaration explorer on FEMA open data — maps, trends, preparedness info | [Live](https://leixue.dev/disasterlens/index.html) · [Repo](https://github.com/lei-xue/disaster-lens) |
 | **CharityCheck** | Verify a charity's legitimacy and 501(c)(3) status via IRS/ProPublica data | [Live](https://leixue.dev/charitycheck/index.html) · [Repo](https://github.com/lei-xue/charity-check) |
 | **LeetCode Solutions** | Blind 75 in JS + Java, plus 90+ daily practice and JS-challenge problems | [Repo](https://github.com/lei-xue/leetcode-solutions) |
@@ -33,6 +32,14 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
       <strong><a href="https://movies.leixue.dev/">Cinemate</a></strong><br/>
       A React movie browser powered by TMDB.<br/><br/>
       <a href="https://movies.leixue.dev"><img src="assets/tiny-projects/cinemate-screenshot.jpg" alt="Cinemate movie browser screenshot" width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://mindbridge.leixue.dev/">MindBridge</a></strong><br/>
+      English/Spanish mental-health resources with California County/ZIP search and optional local county detection.<br/>
+      <a href="https://mindbridge.leixue.dev/es">Español</a> · <a href="https://github.com/lei-xue/mindbridge">Repo</a><br/><br/>
+      <a href="https://mindbridge.leixue.dev/"><img src="assets/tiny-projects/mindbridge-screenshot.jpg" alt="MindBridge mental-health resource directory preview" width="100%" /></a>
     </td>
   </tr>
 </table>
