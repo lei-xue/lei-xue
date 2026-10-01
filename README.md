@@ -37,8 +37,7 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://mindbridge.leixue.dev/">MindBridge</a></strong><br/>
-      English/Spanish mental-health resources with California County/ZIP search and optional local county detection.<br/>
-      <a href="https://mindbridge.leixue.dev/es">Español</a> · <a href="https://github.com/lei-xue/mindbridge">Repo</a><br/><br/>
+      English/Spanish mental-health resources with California County/ZIP search and optional local county detection.<br/><br/>
       <a href="https://mindbridge.leixue.dev/"><img src="assets/tiny-projects/mindbridge-screenshot.jpg" alt="MindBridge mental-health resource directory preview" width="100%" /></a>
     </td>
   </tr>
