@@ -15,7 +15,6 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
 | Project | What it does | Links |
 |---|---|---|
 | **MedOps Portal** | Medication operations portal for pharmacy teams — role-based order workflow, inventory, audit trails, plus a FHIR integration slice | [Live demo](https://medops.leixue.dev) · [Repo](https://github.com/lei-xue/med-ops-portal) |
-| **LeetCode Solutions** | Blind 75 in JS + Java, plus 90+ daily practice and JS-challenge problems | [Repo](https://github.com/lei-xue/leetcode-solutions) |
 
 ## 🧪 Tiny Projects
 
