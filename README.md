@@ -15,7 +15,6 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
 | Project | What it does | Links |
 |---|---|---|
 | **MedOps Portal** | Medication operations portal for pharmacy teams — role-based order workflow, inventory, audit trails, plus a FHIR integration slice | [Live demo](https://medops.leixue.dev) · [Repo](https://github.com/lei-xue/med-ops-portal) |
-| **DisasterLens** | US disaster declaration explorer on FEMA open data — maps, trends, preparedness info | [Live](https://leixue.dev/disasterlens/index.html) · [Repo](https://github.com/lei-xue/disaster-lens) |
 | **LeetCode Solutions** | Blind 75 in JS + Java, plus 90+ daily practice and JS-challenge problems | [Repo](https://github.com/lei-xue/leetcode-solutions) |
 
 ## 🧪 Tiny Projects
@@ -44,6 +43,14 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
       A 500-organization snapshot of public nonprofit records and historical Form 990 data — informational only, not current IRS status verification.<br/><br/>
       <a href="https://charitycheck.leixue.dev/"><img src="assets/tiny-projects/charitycheck-screenshot.jpg" alt="CharityCheck nonprofit records dashboard screenshot" width="100%" /></a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://disasterlens.leixue.dev/">DisasterLens</a></strong><br/>
+      A map-first explorer for FEMA disaster declaration records, with state filters, trend charts and current NWS weather alerts — informational only, not a real-time warning service.<br/><br/>
+      <a href="https://disasterlens.leixue.dev/"><img src="assets/tiny-projects/disasterlens-screenshot.jpg" alt="DisasterLens FEMA disaster declarations map dashboard screenshot" width="100%" /></a>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
