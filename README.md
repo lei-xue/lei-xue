@@ -20,38 +20,26 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <a href="https://moneyclock.leixue.dev/"><img src="assets/tiny-projects/cinnamoroll-money-clock-screenshot.jpg" alt="Cinnamoroll Money Clock screenshot" width="100%" /></a><br/>
       <strong><a href="https://moneyclock.leixue.dev/">Cinnamoroll Money Clock</a></strong><br/>
-      A cute, privacy-first live earnings clock with a configurable workday and unpaid lunch break.<br/><br/>
-      <a href="https://moneyclock.leixue.dev"><img src="assets/tiny-projects/cinnamoroll-money-clock-screenshot.jpg" alt="Cinnamoroll Money Clock dashboard screenshot" width="100%" /></a>
+      A cute live earnings clock for your workday.
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <a href="https://movies.leixue.dev/"><img src="assets/tiny-projects/cinemate-screenshot.jpg" alt="Cinemate screenshot" width="100%" /></a><br/>
       <strong><a href="https://movies.leixue.dev/">Cinemate</a></strong><br/>
-      A React movie browser powered by TMDB.<br/><br/>
-      <a href="https://movies.leixue.dev"><img src="assets/tiny-projects/cinemate-screenshot.jpg" alt="Cinemate movie browser screenshot" width="100%" /></a>
+      A React movie browser powered by TMDB.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://mindbridge.leixue.dev/">MindBridge</a></strong><br/>
-      English/Spanish mental-health resources with California County/ZIP search and optional local county detection.<br/><br/>
-      <a href="https://mindbridge.leixue.dev/"><img src="assets/tiny-projects/mindbridge-screenshot.jpg" alt="MindBridge mental-health resource directory preview" width="100%" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://charitycheck.leixue.dev/">CharityCheck</a></strong><br/>
-      A 500-organization snapshot of public nonprofit records and historical Form 990 data — informational only, not current IRS status verification.<br/><br/>
-      <a href="https://charitycheck.leixue.dev/"><img src="assets/tiny-projects/charitycheck-screenshot.jpg" alt="CharityCheck nonprofit records dashboard screenshot" width="100%" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <a href="https://disasterlens.leixue.dev/"><img src="assets/tiny-projects/disasterlens-screenshot.jpg" alt="DisasterLens screenshot" width="100%" /></a><br/>
       <strong><a href="https://disasterlens.leixue.dev/">DisasterLens</a></strong><br/>
-      A map-first explorer for FEMA disaster declaration records, with state filters, trend charts and current NWS weather alerts — informational only, not a real-time warning service.<br/><br/>
-      <a href="https://disasterlens.leixue.dev/"><img src="assets/tiny-projects/disasterlens-screenshot.jpg" alt="DisasterLens FEMA disaster declarations map dashboard screenshot" width="100%" /></a>
+      A map-first explorer for FEMA disaster records.
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
+
+- **[MindBridge](https://mindbridge.leixue.dev/)** — English/Spanish directory of mental-health support resources
+- **[CharityCheck](https://charitycheck.leixue.dev/)** — public records for U.S. nonprofits before you donate
 
 ## 💼 Client Work (source private)
 
