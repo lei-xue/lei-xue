@@ -16,7 +16,9 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
 |---|---|---|
 | **MedOps Portal** | Medication operations portal for pharmacy teams — role-based order workflow, inventory, audit trails, plus a FHIR integration slice | [Live demo](https://medops.leixue.dev) · [Repo](https://github.com/lei-xue/med-ops-portal) |
 
-## 💼 Client Work (source private)
+## 💼 Client Work (selected · source private)
+
+A few highlights. More client projects are available on request.
 
 - **WAE International Art Education** — full marketing site, solo build ([live](https://leixue.dev/wae/index.html))
 - **Somerville Dental** — dental practice web app ([preview](https://dental-app-amf.pages.dev/))
