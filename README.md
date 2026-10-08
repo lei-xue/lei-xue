@@ -56,7 +56,7 @@ Full-Stack Developer building practical web apps — from healthcare tooling to 
 ## 💼 Client Work (source private)
 
 - **WAE International Art Education** — full marketing site, solo build ([live](https://leixue.dev/wae/index.html))
-- **Somerville Dental** — dental practice web app ([live](https://leixue.dev/dental/index.html))
+- **Somerville Dental** — dental practice web app ([preview](https://dental-app-amf.pages.dev/))
 
 ## 🌱 Currently
 
