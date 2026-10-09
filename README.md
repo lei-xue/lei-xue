@@ -6,10 +6,6 @@ Tech: TypeScript/JavaScript, Python, SQL · React, Next.js, Tailwind · Node.js,
 
 ## Projects
 
-- [MedOps Portal](https://medops.leixue.dev) ([repo](https://github.com/lei-xue/med-ops-portal)): medication operations portal for pharmacy teams with role-based order workflow, inventory, audit trails and a FHIR integration slice
-- [MindBridge](https://mindbridge.leixue.dev/): English/Spanish directory of mental-health support resources
-- [CharityCheck](https://charitycheck.leixue.dev/): public records for U.S. nonprofits before you donate
-
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -26,6 +22,10 @@ Tech: TypeScript/JavaScript, Python, SQL · React, Next.js, Tailwind · Node.js,
     </td>
   </tr>
 </table>
+
+- [MedOps Portal](https://medops.leixue.dev) ([repo](https://github.com/lei-xue/med-ops-portal)): medication operations portal for pharmacy teams with role-based order workflow, inventory, audit trails and a FHIR integration slice
+- [MindBridge](https://mindbridge.leixue.dev/): English/Spanish directory of mental-health support resources
+- [CharityCheck](https://charitycheck.leixue.dev/): public records for U.S. nonprofits before you donate
 
 ## Client work (source private)
 
