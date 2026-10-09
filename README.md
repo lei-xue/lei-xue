@@ -29,7 +29,15 @@ Tech: TypeScript/JavaScript, Python, SQL · React, Next.js, Tailwind · Node.js,
 
 ## Client work (source private)
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://dental-app-amf.pages.dev/"><img src="assets/client-work/somerville-dental-screenshot.jpg" alt="Somerville Dental screenshot" width="100%" /></a><br/>
+      <a href="https://dental-app-amf.pages.dev/">Somerville Dental</a>: dental practice web app
+    </td>
+  </tr>
+</table>
+
 - [WAE International Art Education](https://leixue.dev/wae/index.html): marketing site, solo build
-- [Somerville Dental](https://dental-app-amf.pages.dev/): dental practice web app
 
 Contact: [hi@leixue.dev](mailto:hi@leixue.dev)
