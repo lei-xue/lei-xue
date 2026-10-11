@@ -17,13 +17,13 @@ Tech: TypeScript/JavaScript, Python, SQL · React, Next.js, Tailwind · Node.js,
       <a href="https://movies.leixue.dev/">Cinemate</a>: React movie browser powered by TMDB
     </td>
     <td width="33%" valign="top">
-      <a href="https://disasterlens.leixue.dev/"><img src="assets/tiny-projects/disasterlens-screenshot.jpg" alt="DisasterLens screenshot" width="100%" /></a><br/>
-      <a href="https://disasterlens.leixue.dev/">DisasterLens</a>: map-first explorer for FEMA disaster records
+      <a href="https://medops.leixue.dev"><img src="assets/tiny-projects/medops-screenshot.jpg" alt="MedOps Portal screenshot" width="100%" /></a><br/>
+      <a href="https://medops.leixue.dev">MedOps Portal</a> (<a href="https://github.com/lei-xue/med-ops-portal">repo</a>): medication operations portal for pharmacy teams with role-based order workflow, inventory, audit trails and a FHIR integration slice
     </td>
   </tr>
 </table>
 
-- [MedOps Portal](https://medops.leixue.dev) ([repo](https://github.com/lei-xue/med-ops-portal)): medication operations portal for pharmacy teams with role-based order workflow, inventory, audit trails and a FHIR integration slice
+- [DisasterLens](https://disasterlens.leixue.dev/): map-first explorer for FEMA disaster records
 - [MindBridge](https://mindbridge.leixue.dev/): English/Spanish directory of mental-health support resources
 - [CharityCheck](https://charitycheck.leixue.dev/): public records for U.S. nonprofits before you donate
 
