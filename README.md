@@ -37,7 +37,7 @@ Tech: TypeScript/JavaScript, Python, SQL · React, Next.js, Tailwind · Node.js,
     </td>
     <td width="33%" valign="top">
       <a href="https://wae.leixue.dev/"><img src="assets/client-work/wae-screenshot.jpg" alt="WAE International Art Education screenshot" width="100%" /></a><br/>
-      <a href="https://wae.leixue.dev/">WAE International Art Education</a>: bilingual site for an art study-abroad agency with an admin panel for all content (<a href="https://wae.leixue.dev/admin">demo admin</a>), solo build
+      <a href="https://wae.leixue.dev/">WAE International Art Education</a> (<a href="https://wae.leixue.dev/admin">admin demo</a>): bilingual agency site and CMS
     </td>
   </tr>
 </table>
