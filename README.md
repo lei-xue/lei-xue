@@ -18,7 +18,7 @@ Tech: TypeScript/JavaScript, Python, SQL · React, Next.js, Tailwind · Node.js,
     </td>
     <td width="33%" valign="top">
       <a href="https://medops.leixue.dev"><img src="assets/tiny-projects/medops-screenshot.jpg" alt="MedOps Portal screenshot" width="100%" /></a><br/>
-      <a href="https://medops.leixue.dev">MedOps Portal</a> (<a href="https://github.com/lei-xue/med-ops-portal">repo</a>): medication operations portal for pharmacy teams with role-based order workflow, inventory, audit trails and a FHIR integration slice
+      <a href="https://medops.leixue.dev">MedOps Portal</a> (<a href="https://github.com/lei-xue/med-ops-portal">repo</a>): pharmacy orders, inventory and FHIR
     </td>
   </tr>
 </table>
