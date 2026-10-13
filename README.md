@@ -1,31 +1,29 @@
 # Hi, I'm Sherry (Lei) Xue
 
-Full-stack developer building practical web apps, from healthcare tooling to data dashboards to client sites. Certified pharmacy technician (CPhT), currently learning healthcare interop (FHIR, pharmacy workflows).
+Full-stack developer building practical web apps, from healthcare tooling to data dashboards to client sites. Certified pharmacy technician (CPhT), currently learning healthcare interop (FHIR, pharmacy workflows). I write about what I build at [blog.leixue.dev](https://blog.leixue.dev).
 
 Tech: TypeScript/JavaScript, Python, SQL · React, Next.js, Tailwind · Node.js, Express, PostgreSQL · LLM integration, RAG · Docker, Cloudflare, CI/CD, Vitest, Playwright
 
-## Projects
+## Featured projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://moneyclock.leixue.dev/"><img src="assets/tiny-projects/cinnamoroll-money-clock-screenshot.jpg" alt="Cinnamoroll Money Clock screenshot" width="100%" /></a><br/>
-      <a href="https://moneyclock.leixue.dev/">Cinnamoroll Money Clock</a>: live earnings clock for your workday
+      <a href="https://signsafe.leixue.dev/"><img src="assets/featured/signsafe.jpg" alt="SignSafe review of a sample lease" width="100%" /></a><br/>
+      <a href="https://signsafe.leixue.dev/">SignSafe</a>: AI flags the traps in a contract and quotes each one
     </td>
     <td width="33%" valign="top">
-      <a href="https://movies.leixue.dev/"><img src="assets/tiny-projects/cinemate-screenshot.jpg" alt="Cinemate screenshot" width="100%" /></a><br/>
-      <a href="https://movies.leixue.dev/">Cinemate</a>: React movie browser powered by TMDB
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://medops.leixue.dev"><img src="assets/tiny-projects/medops-screenshot.jpg" alt="MedOps Portal screenshot" width="100%" /></a><br/>
+      <a href="https://medops.leixue.dev"><img src="assets/featured/medops.jpg" alt="MedOps Portal screenshot" width="100%" /></a><br/>
       <a href="https://medops.leixue.dev">MedOps Portal</a> (<a href="https://github.com/lei-xue/med-ops-portal">repo</a>): pharmacy orders, inventory and FHIR
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://claims.leixue.dev/"><img src="assets/featured/claims-lens.jpg" alt="Claims Lens home page" width="100%" /></a><br/>
+      <a href="https://claims.leixue.dev/">Claims Lens</a> (<a href="https://github.com/lei-xue/claims-lens">repo</a>): match 835 remittances to 837 claims and work every denial
     </td>
   </tr>
 </table>
 
-- [DisasterLens](https://disasterlens.leixue.dev/): map-first explorer for FEMA disaster records
-- [MindBridge](https://mindbridge.leixue.dev/): English/Spanish directory of mental-health support resources
-- [CharityCheck](https://charitycheck.leixue.dev/): public records for U.S. nonprofits before you donate
+More projects, with the story behind each one, are on my blog: [blog.leixue.dev/work](https://blog.leixue.dev/work).
 
 ## Client work (source private)
 
