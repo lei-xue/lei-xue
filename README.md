@@ -17,7 +17,7 @@ Tech: TypeScript/JavaScript, Python, SQL · React, Next.js, Tailwind · Node.js,
       <a href="https://medops.leixue.dev">MedOps Portal</a> (<a href="https://github.com/lei-xue/med-ops-portal">repo</a>): pharmacy orders, inventory and FHIR
     </td>
     <td width="33%" valign="top">
-      <a href="https://claims.leixue.dev/"><img src="assets/featured/claims-lens.jpg" alt="Claims Lens home page" width="100%" /></a><br/>
+      <a href="https://claims.leixue.dev/"><img src="assets/featured/claims-lens.jpg" alt="Claims Lens work queue with a denial open" width="100%" /></a><br/>
       <a href="https://claims.leixue.dev/">Claims Lens</a> (<a href="https://github.com/lei-xue/claims-lens">repo</a>): match 835 remittances to 837 claims and work every denial
     </td>
   </tr>
